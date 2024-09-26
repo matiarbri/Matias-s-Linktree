@@ -16,22 +16,22 @@ h1 {
     color: white;
 }
 
+p {
+    color: white;
+}
+
+/* CLASES */
+
+.loc {
+    color:  rgba(161, 206, 0, 0.897);
+}
+
 .container{ 
     background:hsl(0, 0%, 12%);
     padding: 2em;
     border-radius: 20px;
 }
 
-
-.location p {
-    color: rgba rgba(161, 206, 0, 0.897);
-    margin: 0;
-    padding: 0;
-}
-
-p {
-    color: white;
-}
 
 .links a {
     background: hsl(0, 0%, 20%);
