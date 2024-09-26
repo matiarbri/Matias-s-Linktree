@@ -23,7 +23,7 @@ p {
 /* CLASES */
 
 .loc {
-    color:  rgba(161, 206, 0, 0.897);
+    color:  rgba(165, 197, 48, 0.897);
 }
 
 .container{ 
@@ -43,7 +43,7 @@ p {
 }
 
 a:hover {
-    background: rgba(161, 206, 0, 0.897);
+    background: rgba(165, 197, 48, 0.897);
     color: black;
     transition: 0.35s;
 }
